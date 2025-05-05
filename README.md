@@ -6,32 +6,24 @@ I'm a passionate Full Stack Developer with a love for building amazing applicati
 
 ### Front-End:
 - HTML5, CSS3
-- Tailwind CSS, Bootstrap, Material UI
-- Redux, Context API
+- CSS, Bootstrap
 
 ### Back-End:
-- Node.js, Express.js
+- Node.js
 - Python (Django, Flask)
-- Java, Spring Boot
-- PHP, Laravel
 
 ### Database:
-- MongoDB, PostgreSQL, MySQL
-- Firebase, Redis
+- MySQL
 
 ### Tools & Others:
-- Git & GitHub, GitLab
-- Docker, Kubernetes
+- Git & GitHub
 - CI/CD (Jenkins, GitHub Actions)
-- REST APIs, GraphQL
-- Nginx, Apache
-- AWS, Heroku, DigitalOcean
-- VS Code, IntelliJ IDEA
+- REST APIs
+- VS Code
 
 ## Fun Facts About Me 🎉
 
 - I'm a huge fan of coffee. It keeps me coding all night long! ☕
-- I love contributing to open-source projects.
 - In my free time, you’ll find me solving algorithm challenges or learning new technologies.
 - I’m always up for a coding competition or hackathon.
 
@@ -41,7 +33,7 @@ I'm always open to discussing new projects and opportunities! Feel free to reach
 
 - [LinkedIn](https://www.linkedin.com/in/dishant-bansod)
 - [Twitter](https://twitter.com/dishant_bansod)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:dishantbansod210@gmail.com)
 
 ## GitHub Stats 📊
 
