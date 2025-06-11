@@ -1,6 +1,6 @@
 # Hi, I'm Dishant Bansod 👨‍💻
 
-I'm a passionate Full Stack Developer with a love for building amazing applications and websites. I have experience with both front-end and back-end technologies and enjoy solving complex problems. Let's build something awesome together!
+I'm a passionate Full Stack Developer with a love for building amazing web applications and websites. I have experience with both front-end and back-end technologies and enjoy solving complex problems. Let's build something awesome together!
 
 ## Technologies I Use 💻
 
@@ -9,8 +9,8 @@ I'm a passionate Full Stack Developer with a love for building amazing applicati
 - CSS, Bootstrap
 
 ### Back-End:
+- Python (Django)
 - Node.js
-- Python (Django, Flask)
 
 ### Database:
 - MySQL
