@@ -2,7 +2,7 @@
 
 🎯 A passionate **Full Stack Developer** with hands-on experience in building and deploying responsive, real-world web applications using modern technologies.
 
-Currently focused on Python (Django), RESTful APIs, and scalable backend development — with strong interest in solving real-world problems through clean and efficient code.
+Currently focused on Python (Django) and scalable backend development — with strong interest in solving real-world problems through clean and efficient code.
 
 ---
 
@@ -15,7 +15,7 @@ Currently focused on Python (Django), RESTful APIs, and scalable backend develop
 🟢 MySQL | MongoDB | Django ORM | REST APIs | Razorpay Integration
 
 **Tools & Platforms**  
-🛠️ Git & GitHub | VS Code | Postman | CI/CD Basics | GitHub Actions
+🛠️ Git & GitHub | VS Code | CI/CD Basics | GitHub Actions
 
 ---
 
