@@ -1,68 +1,72 @@
-# 👋 Hi, I'm Dishant Bansod
+# 👋 Hi there, I'm Dishant Bansod
 
-🎯 A passionate **Full Stack Developer** with hands-on experience in building and deploying responsive, real-world web applications using modern technologies.
+🎯 **Full Stack Developer | Python Enthusiast | Problem Solver**
 
-Currently focused on Python (Django) and scalable backend development — with strong interest in solving real-world problems through clean and efficient code.
+I'm passionate about building scalable web applications that solve real-world problems. With hands-on experience in **Python (Django)** and **React.js**, I specialize in delivering full-stack solutions with clean code and meaningful impact.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## ⚙️ Tech Stack
 
 **Languages & Frameworks**  
-🟡 Python | Django | JavaScript | HTML5 | CSS3 | React.js | Bootstrap
+`Python` · `Django` · `JavaScript` · `React.js` · `HTML5` · `CSS3` · `Bootstrap`
 
-**Databases & Backend**  
-🟢 MySQL | MongoDB | Django ORM | REST APIs | Razorpay Integration
+**Backend & Databases**  
+`MySQL` · `MongoDB` · `Django ORM` · `REST APIs` · `Razorpay Integration`
 
 **Tools & Platforms**  
-🛠️ Git & GitHub | VS Code | CI/CD Basics | GitHub Actions
+`Git & GitHub` · `VS Code` · `Postman` · `CI/CD Basics` · `GitHub Actions`
 
 ---
 
-## 🧠 Projects
+## 🚀 Featured Projects
 
-### 🎵 [DisSongs Lit (Live)](https://discedric.pythonanywhere.com)
-A live music content platform built with Django and MySQL. Features:
-- Razorpay Payment Integration
-- Role-based Access Control (Guest/User/Premium)
-- Clean UI with Bootstrap & responsive design
+### 🎵 [DisSongs Lit](https://discedric.pythonanywhere.com) – Live
+A music content platform with Razorpay integration and user access control.
+> **Tech:** Django, MySQL, Bootstrap  
+> **Features:** Razorpay Payment Gateway · Role-based access (Guest, User, Premium) · Clean UI
 
-### 🛒 DisKART
-An e-commerce web application with:
-- Cart management for single & multiple product checkout
-- Django backend with secure logic & validation
-- Razorpay payment gateway and dynamic order handling
+---
 
-> Check the repositories above for full codebase, issues, and project structure.
+### 💬 [DisChat Chatbot](https://dischat-bot.vercel.app) – Live
+A chatbot built using **Gemini AI API** and React.js with clean interface.
+> **Tech:** React.js, Gemini AI, HTML/CSS  
+> **Features:** Real-time AI interaction · Responsive layout · Hosted on Vercel
+
+---
+
+### 🛒 DisKART (Code Only)
+A mini e-commerce app with secure cart and payment flow.
+> **Tech:** Django, Razorpay, Bootstrap  
+> **Features:** Cart logic · Secure checkout · Razorpay payments
 
 ---
 
 ## 🌟 Highlights
 
-- 💡 Built and deployed end-to-end full stack web apps using Django, React, and REST APIs  
-- 🧪 Proficient in testing, debugging, and optimizing backend systems  
-- ⚙️ Comfortable with Git version control, deployments, and collaborative workflows  
-- 🧩 Always learning new tools and techniques to stay ahead in tech  
+- ✅ Developed and deployed full-stack apps using Django + React
+- 🔐 Integrated payment gateways and built secure backend logic
+- 🔄 Proficient in Git version control, debugging, and API consumption
+- 🤖 Built chatbot apps using Gemini AI and GitHub Copilot
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
-I'm actively looking for full-time or internship opportunities in backend and full stack development. Feel free to connect:
+![Dishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DisCedric2&show_icons=true&count_private=true&theme=tokyonight)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dishant-bansod-35a423277)
-- 💬 [Email](mailto:dishantbansod210@gmail.com)
-- 🐙 [GitHub](https://github.com/DisCedric2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DisCedric2&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Let's Connect!
 
-![Dishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DisCedric2&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DisCedric2&layout=compact&theme=radical)
+🔗 [LinkedIn](https://www.linkedin.com/in/dishant-bansod-35a423277)  
+📧 [dishantbansod210@gmail.com](mailto:dishantbansod210@gmail.com)  
+🌐 [Live Project – DisSongs Lit](https://discedric.pythonanywhere.com)  
+💬 [Live Project – DisChat](https://dischat-bot.vercel.app)
 
 ---
 
-> _“The only way to do great work is to love what you do.” – Steve Jobs_
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
