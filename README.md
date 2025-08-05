@@ -68,5 +68,5 @@ A mini e-commerce app with secure cart and payment flow.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> _"“Code is like humor. When you have to explain it, it’s bad.” – Cory House_" - DisCedric 
 
